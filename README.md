@@ -1,2 +1,2 @@
 # robo_arm
-Robotic Arm that I'm buidling
+Robotic Arm that I'm building
